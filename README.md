@@ -1,6 +1,6 @@
-# hyprland-plugins
+# hyprexpo
 
-This repo houses official plugins for Hyprland.
+This repo forked hyprexpo from official plugin repo
 
 # Plugin list
  - hyprexpo -> adds an expo-like workspace overview
