@@ -1,3 +1,5 @@
+> This repo is a partial copy of offical plugin repo 
+
 # HyprExpo
 HyprExpo is an overview plugin like Gnome, KDE or wf.
   
