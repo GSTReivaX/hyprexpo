@@ -1,3 +1,5 @@
+> I no longer use Hyprland!
+>
 > This repo is a partial copy of offical plugin repo 
 
 # HyprExpo
